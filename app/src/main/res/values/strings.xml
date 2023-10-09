@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NOTE BOOK</string>
+    <string name="view">VIEW</string>
+    <string name="edit">EDIT</string>
+    <string name="delete">DELETE</string>
+    <string name="add">ADD</string>
+    <string name="note_name">NOTE NAME</string>
+    <string name="note_details">NOTE DETAILS</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="save">SAVE</string>
+    <string name="edit_section">EDIT SECTION</string>
+    <string name="close">CLOSE</string>
+</resources>
